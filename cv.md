@@ -16,6 +16,9 @@
 
 ### About me
 
+I started my training about a year ago. Engaged in self-study courses and on youtube. The main direction of training was front-end, with an emphasis on React.
+My goal is employment and subsequent growth in the profession. I have experience in dealing with a lot of information and documentation. I like to work in a team, learn from and share experience. 
+
 ***
 
 ### Skills:
@@ -29,9 +32,9 @@
 
 ### Code Examples
 
-_Count the number of divisors of a positive integer n.
+_Count the number of divisors of a positive integer n._
 
-Random tests go up to n = 500000._
+_Random tests go up to n = 500000._
 
 ```
 function getDivisorsCnt(n){
